@@ -14,7 +14,7 @@
 }(this, function (angular) {
     var moduleName = 'vivify-ideas.angular-on-load';
     var mod = angular.module(moduleName, []);
-    mod.directive('viConditionalAttributes', ['$timeout', function($timeout) {
+    mod.directive('viConditionalAttributes', ['$compile', function($compile) {
         return {
             restrict: 'A',
             scope: {
