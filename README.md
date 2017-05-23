@@ -16,6 +16,12 @@ or
 bower install vi-angular-conditional-attributes
 ```
 
+or
+
+```
+yarn add vi-angular-conditional-attributes
+```
+
 Register the module into your main app module
 
 ```javascript
