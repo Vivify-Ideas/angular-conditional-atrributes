@@ -6,7 +6,13 @@
     "homepage": "https://github.com/Vivify-Ideas/angular-conditional-attributes#readme",
     "version": "0.1.0",
     "main": "src/conditional-attributes.js",
-    "peerDependencies": {
+    "keywords": [
+        "angularjs",
+        "html",
+        "dynamic",
+        "condition"
+    ],
+    "dependencies": {
         "angular": "^1.2.18"
     },
     "scripts": {
@@ -15,14 +21,5 @@
     "repository": {
         "type": "git",
         "url": "git+https://github.com/Vivify-Ideas/angular-conditional-attributes.git"
-    },
-    "keywords": [
-        "angularjs",
-        "html",
-        "dynamic",
-        "condition"
-    ],
-    "bugs": {
-        "url": "https://github.com/Vivify-Ideas/angular-conditional-attributes/issues"
     }
 }
