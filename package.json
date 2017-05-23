@@ -1,0 +1,28 @@
+{
+    "name": "vi-angular-conditional-attributes",
+    "description": "AngularJS directive for dynamic conditional adding of attributes to HTML elements",
+    "author": "Vivify Ideas",
+    "license": "MIT",
+    "homepage": "https://github.com/Vivify-Ideas/angular-conditional-atrributes#readme",
+    "version": "0.1.0",
+    "main": "src/conditional-attributes.js",
+    "peerDependencies": {
+        "angular": "^1.2.18"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Vivify-Ideas/angular-conditional-atrributes.git"
+    },
+    "keywords": [
+        "angularjs",
+        "html",
+        "dynamic",
+        "condition"
+    ],
+    "bugs": {
+        "url": "https://github.com/Vivify-Ideas/angular-conditional-atrributes/issues"
+    }
+}

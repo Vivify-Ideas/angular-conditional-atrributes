@@ -12,7 +12,7 @@
         root.returnExports = factory(root.angular);
     }
 }(this, function (angular) {
-    var moduleName = 'vivify-ideas.angular-on-load';
+    var moduleName = 'vivify-ideas.conditional-attributes';
     var mod = angular.module(moduleName, []);
     mod.directive('viConditionalAttributes', ['$compile', function($compile) {
         return {
