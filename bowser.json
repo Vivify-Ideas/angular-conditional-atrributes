@@ -4,7 +4,7 @@
     "author": "Vivify Ideas",
     "license": "MIT",
     "homepage": "https://github.com/Vivify-Ideas/angular-conditional-attributes#readme",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "src/conditional-attributes.js",
     "keywords": [
         "angularjs",
